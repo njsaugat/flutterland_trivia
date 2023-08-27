@@ -7,19 +7,19 @@ The Flutterland Trivia is a friendly and fun app you can use on your phone. It's
 ## SCREENSHOTS
 <p style="float: center;">
 
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2016-59-15.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2016-59-36.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-03-22.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-04-55.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-05-55.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-08-26.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-08-38.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-09-33.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-12-19.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-13-03.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-16-14.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-39-25.png" width="22%"/>
-  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-50-57.png" width="22%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2016-59-15.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2016-59-36.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-03-32.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-04-55.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-05-55.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-08-26.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-08-38.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-09-33.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-12-19.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-13-03.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-16-14.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-39-25.png" width="32%"/>
+  <img src="https://github.com/njsaugat/flutterland_trivia/blob/master/screenshots/Screenshot%20from%202023-08-27%2017-50-57.png" width="32%"/>
 </p>
 
 
