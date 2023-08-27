@@ -3,6 +3,7 @@
 The Flutterland Trivia is a friendly and fun app you can use on your phone. It's designed to help you learn about Flutter, which is a way to make mobile apps. The app uses special tools like Flutter and Firebase to give you a cool experience with flashcards, quizzes, and keeping track of your progress. Whether you're just starting with Flutter or already know a lot, this app can help you get better.
 
 
+### This project was part of the mobile programming course.
 
 ## SCREENSHOTS
 <p style="float: center;">
