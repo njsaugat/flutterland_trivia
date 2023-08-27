@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "643833047421",
+    "project_id": "flutterriddles",
+    "storage_bucket": "flutterriddles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643833047421:android:9d3f50a9dba62ff001c414",
+        "android_client_info": {
+          "package_name": "com.example.flutterland_trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643833047421-2235s7jes2d9ur5hgd3j2cmjsinm4od1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7sT8ikBAUa3ZAUrIA_p8HXRrf3aW0sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643833047421-2235s7jes2d9ur5hgd3j2cmjsinm4od1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "643833047421-et7e2i1b7bu5h8jplkf387vmkd2c4ja9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flashcardsQuiz.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
